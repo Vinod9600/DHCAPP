@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965981326542",
+    "project_id": "dhc-app-9def3",
+    "storage_bucket": "dhc-app-9def3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965981326542:android:d546cc9595c502e190d49f",
+        "android_client_info": {
+          "package_name": "com.dhc.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965981326542-dpd4gncmg68gc4jv6pc51d18fmqsjrr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_OaLGnC2cUBkc5ZdEDvOFFuhPycX2eQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965981326542-dpd4gncmg68gc4jv6pc51d18fmqsjrr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
